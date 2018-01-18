@@ -1,4 +1,4 @@
-# Python-Data-Science-and-Machine-Learning-Bootcamp (Sept 2017 - Jan 14)
+# Python-Data-Science-and-Machine-Learning-Bootcamp (Sept 2017 - Jan 2017)
 
 This comprehensive [course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) was helpful in learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms. This course has also help me to develop thinking like a data scientist.
 
